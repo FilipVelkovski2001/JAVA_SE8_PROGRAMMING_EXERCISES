@@ -1,0 +1,1 @@
+![](https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/java-8-functional-interfaces/Images/Functional%20Interfaces.png)
