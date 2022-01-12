@@ -339,7 +339,7 @@ class Main {
 
 Output: 
 
-https://media.geeksforgeeks.org/wp-content/uploads/20211010155321/Screenshot20211010at35239PM.png
+![](https://media.geeksforgeeks.org/wp-content/uploads/20211010155321/Screenshot20211010at35239PM.png)
 
 
 
